@@ -1,2 +1,2 @@
-# predykcja_cen
+# Prognozowanie cen samochodów
 Prognozowanie cen samochodów
